@@ -60,8 +60,8 @@ done
 PassingArguments eka toka
 DoubleLoopNumbers 12
 
-while [ 1 -ge 1 ]
-do
-    DoubleLoopNumbers 20
-    sleep 1
-done
+#while [ 1 -ge 1 ]
+#do
+#    DoubleLoopNumbers 20
+#    sleep 1
+#done
